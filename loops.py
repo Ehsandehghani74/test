@@ -22,3 +22,4 @@ rangeOfNumbers = range(1, 10,2)
 
 for num in rangeOfNumbers:
     print(num * num)
+    print("list")
